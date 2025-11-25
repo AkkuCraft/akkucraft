@@ -8,7 +8,7 @@
 
 > Ein Projekt von: **Timon, Fabian, Tammo und Henry**.
 > 
-> **Hinweis:** Der Account **[@AkkuCraft](https://github.com/akkucraft** ist in diesem Kontext ein **Platzhalter für die Organisation Akku-Craft**.
+> **Hinweis:** Der Account **[@AkkuCraft](https://github.com/akkucraft)** ist in diesem Kontext ein **Platzhalter für die Organisation [Akku-Craft](https://github.com/akku-craft)**.
 
 ---
 
